@@ -1,0 +1,8 @@
+To run this program on the CS machines from this directory:
+- Compile using 'javac -d out -cp src src/Main.java src/Classes/*.java src/WhereTree/*.java src/BPlusTree/*.java'
+- Run using 'java -cp out Main <dblocation> <pagesize> <buffersize> <indexing>'
+- Alternatively, you can change directory into .\out after compilation and run using 'java Main <dblocation> <pagesize> <buffersize> <indexing>'
+
+Known issues:
+- If pasting multi-line commands, you will probably need to hit enter one more time at the end to execute the final command. This happens if you copy-pasted the commands without a new-line/return at the end.
+- When manually typing in commands, the command will appear twice. This is because for every command pasted in or entered, it appears once from you typing it and again from the program itself printing that command. This helps with multi-command inputs for clarity, but when typing individual inputs in it displays them twice.

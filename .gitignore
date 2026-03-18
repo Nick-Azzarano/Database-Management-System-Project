@@ -1,0 +1,7 @@
+*.class
+*.bin
+db/
+catalog
+.vscode/
+bin/
+.qodo
