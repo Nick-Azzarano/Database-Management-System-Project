@@ -1,4 +1,7 @@
 # Local Database Management System
+### Nick Azzarano
+### January 2025 - April 2025
+#### (This repository is only a copy of the original that was used to develop and submit this project.)
 
 # Project Summary
 A self-contained relational DBMS built from scratch with a custom SQL engine, bit-level storage, and B+Tree indexing.
